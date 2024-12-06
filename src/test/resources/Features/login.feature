@@ -3,7 +3,7 @@
 # Description
 
 @SmokeFeature
-Feature: feature to test login functionality
+Feature: Feature to test login functionality
 
   @smoketest
   Scenario: Check login is successful with valid credentials

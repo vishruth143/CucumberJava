@@ -1,4 +1,4 @@
-Feature: feature to test google search functionality
+Feature: Feature to test google search functionality
 
   Scenario: Validate google search is working
     Given browser is open
