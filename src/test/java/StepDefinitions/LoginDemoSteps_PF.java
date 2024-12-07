@@ -48,7 +48,7 @@ public class LoginDemoSteps_PF {
 	
 	@And("user clicks on login")
 	public void user_clicks_on_login() {
-		System.out.println("Inside step - user clisck on login");
+		System.out.println("Inside step - user clicks on login");
 		loginpage.clickSubmit();
 	}
 
